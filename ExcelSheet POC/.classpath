@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="POC Libraries/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="POC Libraries/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
